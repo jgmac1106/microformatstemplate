@@ -1,2 +1,3 @@
-Open Stories
-A collection of us detailing careers in open source and sharing success storis. 
+## Bootstrap microformats template
+
+This is rthe start of a group membership template for academics.
